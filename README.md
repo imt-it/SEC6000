@@ -21,11 +21,16 @@ This repository hosts the exported configuration from the pfSense system, config
 
 ## Requirements
 
-Base:
-- pfSense 2.8.x
+Minimum:
+- pfSense >= 2.8.x
+- CPU cores = 2
+- RAM = 6 GB
+- Storage = 12 GB
+- Ethernet NICs = 4
 
-System requirements (recommended):
-- CPU cores >= 2
-- RAM >= 6 GB
-- Storage >= 12 GB
+Recommended:
+- pfSense >= 2.8.x
+- CPU cores >= 4
+- RAM >= 12 GB
+- Storage >= 32 GB
 - Ethernet NICs >= 4
