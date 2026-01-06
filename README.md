@@ -15,8 +15,7 @@ README.md
 
 ## Description
 
-This repository hosts the exported configuration from the pfSense system, configured to the specification for Assignment 1.
-All aspects and tasks of the assignment have been fully met.
+This repository hosts the exported configuration from the pfSense system, configured according to the Assignment 1 requirements and specification.
 
 ---
 
