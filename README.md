@@ -6,7 +6,7 @@ README.md
 
 - Project Name: **pfSense Configuration**
 - Institute: **University of Bolton - Greater Manchester**
-- Module: **SEC6000 - Data Structures and Algorithms**
+- Module: **SEC6000 - Cloud and Network Security**
 - Assessment: **1**
 - Instructor: **Anastasios Gkiouzepas**
 - Student: **Ioannis Marios Tsiakoulias**
